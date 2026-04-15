@@ -33,4 +33,10 @@ Simply open `index.html` in your web browser to view the website.
 - Update `index.html` to change content
 - Modify `script.js` for additional interactivity
 
+## About Project
+
+- Modern Web Design Educational Website
+- Website about learning how UI/UX design works
+- Made by Ondrej Forman
+
 Enjoy learning about web design!
